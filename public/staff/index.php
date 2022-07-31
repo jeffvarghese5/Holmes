@@ -9,7 +9,8 @@
         ['id'=>2, 'subject'=>'AI', 'visible'=>'1','position'=>1],
         ['id'=>3, 'subject'=>'MachineLearning', 'visible'=>'1','position'=>1],
         ['id'=>4, 'subject'=>'CyberSecurity', 'visible'=>'1','position'=>1],
-        ['id'=>5, 'subject'=>'CyberSecurity', 'visible'=>'1','position'=>1]
+        ['id'=>5, 'subject'=>'CyberSecurity', 'visible'=>'1','position'=>1],
+        ['id'=>6, 'subject'=>'CyberSecurity', 'visible'=>'1','position'=>1]
         ];
     ?>
 <?php 
