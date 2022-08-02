@@ -20,7 +20,8 @@
   
   $message = "The result from the function is ".test();
 
-  echo $message
+  echo $message;
+  echo 'New Message'
 
 
 
