@@ -22,6 +22,7 @@
 
   echo $message;
   echo 'New Message'
+  echo 'Another'
 
 
 
